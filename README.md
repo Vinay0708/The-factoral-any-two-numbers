@@ -1,4 +1,4 @@
-# The-factoral-any-two-numbers
+# The-factoral of all numbers.-between any-two-numbers
 #include<stdio.h>
 int main()
 {   
